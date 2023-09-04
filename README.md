@@ -15,7 +15,7 @@ main.m
 
 #### Any query, please raise an issue or contact :
 
-Dr. Raji Susan Mathew
+Raji Susan Mathew
 
 PostDoc, CDS, IISc Bangalore, email: rajisusanm@iisc.ac.in
 
