@@ -1,5 +1,5 @@
 # QSM-MR-TKD
-
+<p align="justify" markdown="1">
 Raji Susan Mathew, Naveen Paluru and Phaneendra K. Yalavarthy, "Model-Resolution based Deconvolution for Improved Quantitative Susceptibility Mapping," NMR in Biomedicine (2023). (in press)
 
 <p align="justify" markdown="1">
