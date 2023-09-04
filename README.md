@@ -2,6 +2,7 @@
 
 Raji Susan Mathew, Naveen Paluru and Phaneendra K. Yalavarthy, "Model-Resolution based Deconvolution for Improved Quantitative Susceptibility Mapping," NMR in Biomedicine (2023). (in press)
 
+<p align="justify" markdown="1">
 Quantitative susceptibility mapping (QSM) leverages the connection between the measured local field and the unknown susceptibility map to perform dipole deconvolution. A two-step approach is introduced that consists of first computing the TKD susceptibility map and then refining it using a model-resolution matrix. The TKD-derived susceptibility map is essentially a weighted average of the true susceptibility map, with the weights determined by the rows of the model-resolution matrix. Consequently, deconvolving the TKD susceptibility map with the model-resolution matrix provides a more precise approximation of the true susceptibility map. The model-resolution-based deconvolution employs closed-form, iterative, and sparsity-regularized methods.
 
 #### Usage
