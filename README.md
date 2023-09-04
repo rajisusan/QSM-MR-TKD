@@ -7,6 +7,7 @@ Raji Susan Mathew, Naveen Paluru and Phaneendra K. Yalavarthy, "Model-Resolution
 
 ## sample data/metric computation credits
 [1] Lai et al., Learned Proximal Networks for Quantitative Susceptibility Mapping, MICCAI, 2020. [https://github.com/Sulam-Group/LPCNN]
+
 [2] Langkammer et al., Quantitative susceptibility mapping: report from the 2016 reconstruction challenge, Magnetic Resonance in Medicine, 2018. 
 
 Any query, please raise an issue or contact :
