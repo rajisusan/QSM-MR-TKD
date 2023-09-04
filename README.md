@@ -17,4 +17,4 @@ main.m
 
 #### Code Sub-function credits
 
-[3] Milovic C et al., Fast nonlinear susceptibility inversion with variational regularization, Magnetic resonance in medicine. 2018.
+[3] Milovic et al., Fast nonlinear susceptibility inversion with variational regularization, Magnetic resonance in medicine. 2018.
