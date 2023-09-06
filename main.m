@@ -52,8 +52,10 @@ step_size = 1;      % gradient descent step size
 %%-------------------------------------------------------------------------
 
 kthre =0.22;
-kernel_inv = ones(N)/kthre; 
-kernel_inv( abs(kernel) > kthre ) = 1 ./ kernel(abs(kernel) > kthre);
+threshold = 1/kthre;
+kernel_inv = 1/kernel;
+kernel_inv((kernel_inv> threshold)) =  threshold;
+kernel_inv((kernel_inv<-threshold)) = -threshold;
 
 chi_tkd1 = real( ifftn( kernel_inv.* fftn(phs) ) ) .* msk; 
 
